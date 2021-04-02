@@ -1,3 +1,3 @@
 [submodule "public_regulated_data_types_for_testing"]
-	path = src/drivers/uavcan/libuavcan/dsdl
-	url = https://github.com.cnpmjs.org/lupixi/dsdl
+	path = demo/public_regulated_data_types
+	url = https://github.com.cnpmjs.org/UAVCAN/public_regulated_data_types
